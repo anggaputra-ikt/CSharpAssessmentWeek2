@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAssessmentWeek2.ConsoleApp", "CSharpAssessmentWeek2\CSharpAssessmentWeek2.ConsoleApp.csproj", "{17C491EE-4B5A-4D53-A60F-5A5A81049383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAssessmentWeek2", "CSharpAssessmentWeek2t\CSharpAssessmentWeek2.csproj", "{69092008-77EE-43FF-B733-A8C1BEF72383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17C491EE-4B5A-4D53-A60F-5A5A81049383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C491EE-4B5A-4D53-A60F-5A5A81049383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C491EE-4B5A-4D53-A60F-5A5A81049383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C491EE-4B5A-4D53-A60F-5A5A81049383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69092008-77EE-43FF-B733-A8C1BEF72383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69092008-77EE-43FF-B733-A8C1BEF72383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69092008-77EE-43FF-B733-A8C1BEF72383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69092008-77EE-43FF-B733-A8C1BEF72383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A044EF5-C3B4-4740-9FD8-4839F2806994}
+	EndGlobalSection
+EndGlobal
