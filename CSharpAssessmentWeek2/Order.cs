@@ -32,7 +32,7 @@ public class Order : List<Order>
 			{
 				// Check if item it's already added with increase of total item in cart
 				checkOrder.Quantity += quantity;
-				checkOrder.Amount = quantity * checkItem.Price;
+				checkOrder.Amount = checkOrder.Quantity * checkItem.Price;
 			}
 			else
 			{
