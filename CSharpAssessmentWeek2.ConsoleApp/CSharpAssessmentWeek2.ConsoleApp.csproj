@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CSharpAssessmentWeek2t\CSharpAssessmentWeek2.csproj" />
+    <ProjectReference Include="..\CSharpAssessmentWeek2\CSharpAssessmentWeek2.csproj" />
   </ItemGroup>
 
 </Project>
