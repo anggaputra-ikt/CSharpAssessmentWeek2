@@ -4,10 +4,15 @@
     {
         static void Main(string[] args)
         {
-            var order = new Order("Angga", false);
-            order.AddItem(1, 5);
-            order.AddItem(2, 3);
-			order.Process();
+            var product = new Product()
+            {
+                Name = "Americano",
+                Category = "Coffee",
+                Description = "Coffee Americano",
+                Price = 30000
+            };
+            var order = new Order();
+            order.AddOrderItem(product, 5);
         }
     }
 }
